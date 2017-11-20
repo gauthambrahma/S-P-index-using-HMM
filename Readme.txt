@@ -1,8 +1,3 @@
-Name: Gautham Ponnaganti
-CWID:11764496
-Programming Assignment 2
-
-
 Approach used to develop the model and Formal description:
 
 Data is downloaded from yahoo finance website for 1 year and the column indicating the closing prices is read. Depending on
