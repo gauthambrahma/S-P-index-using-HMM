@@ -1,6 +1,4 @@
-%NAME:Gautham Ponnaganti
-%Course:5313
-%Programming Assignment 2
+%Author:Gautham Ponnaganti
 %Short Description: The model takes two colums as input one is closing
 %prices and other is the date. It converts the colsing prices into a set of
 %observables based on suggesions. Then it trans the model to get the
